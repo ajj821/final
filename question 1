@@ -1,0 +1,9 @@
+question 1
+
+grep -a 'z' wordslist.txt
+
+part 1 
+
+chmod 773 permission.txt
+
+
